@@ -7,11 +7,15 @@ function Main(){
             </h1>
             <br />
             <h1 className="textoMain">
-                Integer leo urna, posuere sollicitudin elit sed, laoreet tincidunt massa. Sed eget diam sit amet lectus interdum tempus non vitae leo. Integer ultricies arcu id purus venenatis, vitae egestas tortor vehicula. Donec a mattis nunc. Nulla dui lectus, vehicula sed ante non, viverra semper lacus. Vestibulum metus enim, vestibulum sit amet vestibulum id, lobortis vel tortor. Fusce sit amet turpis a ligula suscipit eleifend malesuada at lorem.
+                Bem-vindo à InnoTech Solutions, onde transformamos inovação em realidade. Somos uma startup de tecnologia dedicada a desenvolver soluções inteligentes que atendem às necessidades atuais e antecipam o futuro. Especializamo-nos em desenvolvimento de software personalizado, inteligência artificial e machine learning, consultoria em transformação digital e cibersegurança.
             </h1>
             <br />
             <h1 className="textoMain">
-                Mauris non leo suscipit, facilisis eros eu, ultricies nibh. Nunc efficitur, risus in luctus malesuada, elit erat convallis neque, ut sollicitudin est augue vitae justo. Ut non risus elementum, viverra eros ut, rutrum metus. Donec in velit ut quam pellentesque ullamcorper in et est. Morbi scelerisque sed libero vitae aliquam. Cras eu mi quis elit tristique dictum in id urna. Proin dictum luctus leo sed facilisis.
+                Nossa equipe de especialistas altamente qualificados é apaixonada por tecnologia e comprometida em oferecer soluções de ponta que mantêm nossos clientes à frente da concorrência. Valorizamos a colaboração e formamos parcerias estratégicas que ampliam nossas capacidades, sempre com foco em entregar resultados excepcionais e personalizados.
+            </h1>
+            <br />
+            <h1 className="textoMain">
+                Junte-se à InnoTech Solutions e impulsione seu sucesso no mundo digital. Entre em contato para uma consulta gratuita e comece sua transformação digital hoje!
             </h1>
         </div>
     )
